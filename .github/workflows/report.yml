@@ -2,7 +2,7 @@ name: report
 
 on:
   schedule:
-    - cron: "0 12 * * *" # Every day at 12pm
+    - cron: "0 10 * * *" #  Brasília - DF está 2 horas à frente de Washington, D.C., Distrito de Columbia, EUA
   workflow_dispatch:
 
 jobs:
