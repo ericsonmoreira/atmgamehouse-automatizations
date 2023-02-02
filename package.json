@@ -1,0 +1,8 @@
+{
+  "name": "atmgamehouse-automatizations",
+  "version": "1.0.0",
+  "description": "Automações usadas pelo grupo de jogadores de Magic the Gathering",
+  "main": "index.js",
+  "author": "Ericson Moreira",
+  "license": "MIT"
+}
